@@ -1,1 +1,1 @@
-eclipse ile yapılmıştır
+form uygulaması eclipse ile yapılmıştır
